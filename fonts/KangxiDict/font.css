@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'KangxiDict';
+    src: url('KangxiDict.eot'); /* IE9 Compat Modes */
+    src: url('KangxiDict.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('KangxiDict.woff') format('woff'), /* Modern Browsers */
+         url('KangxiDict.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('KangxiDict.svg#KangxiDict') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
