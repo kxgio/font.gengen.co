@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'LiBianLiShuTi';
+    src: url('LiBianLiShuTi.eot'); /* IE9 Compat Modes */
+    src: url('LiBianLiShuTi.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LiBianLiShuTi.woff') format('woff'), /* Modern Browsers */
+         url('LiBianLiShuTi.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('LiBianLiShuTi.svg#LiBianLiShuTi') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

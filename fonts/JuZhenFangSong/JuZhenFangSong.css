@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'JuZhenFangSong';
+    src: url('JuZhenFangSong.eot'); /* IE9 Compat Modes */
+    src: url('JuZhenFangSong.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('JuZhenFangSong.woff') format('woff'), /* Modern Browsers */
+         url('JuZhenFangSong.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('JuZhenFangSong.svg#JuZhenFangSong') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
