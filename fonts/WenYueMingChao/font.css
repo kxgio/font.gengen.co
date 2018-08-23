@@ -1,10 +1,9 @@
 @font-face {
     font-family: 'WenYueMingChao';
-    src: url('WenYueMingChao.eot'); /* IE9 Compat Modes */
-    src: url('WenYueMingChao.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('WenYueMingChao.woff') format('woff'), /* Modern Browsers */
-         url('WenYueMingChao.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('WenYueMingChao.svg#WenYueMingChao') format('svg'); /* Legacy iOS */
+    src: url('WenYueMingChao.eot');
+    src: url('WenYueMingChao.eot?#iefix') format('embedded-opentype'),
+         url('WenYueMingChao.woff') format('woff'),
+         url('WenYueMingChao.ttf') format('truetype');
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
